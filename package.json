@@ -33,7 +33,7 @@
   },
   "engines": {
     "npm": "^8.19.2",
-    "node": "^18.10.0"
+    "node": "16.x"
   },
   "eslintConfig": {
     "extends": [
